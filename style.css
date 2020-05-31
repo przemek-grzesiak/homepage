@@ -1,0 +1,72 @@
+.tech-logo {
+  width: 102px;
+  height: 102px;
+}
+
+#kulafoto {
+  width: 500px;
+  height: 500px;
+}
+
+h2 {
+  color: #1460aa;
+}
+
+#main-index h3 {
+  color: green;
+}
+
+.html {
+  color: orangered;
+}
+
+.html-markup {
+  color: orange;
+  font-weight: bold;
+}
+
+.html-attribute {
+  color: darkmagenta;
+  font-weight: bold;
+}
+
+.html-text {
+  color: green;
+  font-weight: bold;
+}
+
+.css {
+  color: blue;
+}
+
+.js {
+  background: #ebcd22;
+  color: black;
+}
+.js-learning span {
+  background-color: lightgray;
+}
+.js-function {
+  color: yellow;
+}
+
+.js-var {
+  color: rgb(11, 185, 243);
+}
+
+.js-txt {
+  color: orangered;
+}
+
+.js-number {
+  color: green;
+}
+
+.very-important {
+  color: red;
+  font-weight: bold;
+}
+
+.page-footer {
+  font-size: smaller;
+}
