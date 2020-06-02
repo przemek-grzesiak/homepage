@@ -1,4 +1,4 @@
-.tech-logo {
+.image__tech-logo {
   width: 102px;
   height: 102px;
 }
@@ -13,7 +13,7 @@
   overflow: hidden;
 }
 
-h2 {
+.page__header--h2 {
   color: #1460aa;
 
 }
@@ -23,7 +23,7 @@ h2 {
   top: 20px;
   position: sticky;
 }
-#main__index{
+#main-index{
   background-color: lightgray;
   max-width: 1000px;
   padding: 0px 10px;
@@ -32,25 +32,27 @@ h2 {
   margin: auto;
 }
 
-.main__index--h3 {
+.main-index__header--h3 {
   color: green;
 }
+
+
 
 .html {
   color: orangered;
 }
 
-.html-markup {
+.html__markup {
   color: orange;
   font-weight: bold;
 }
 
-.html-attribute {
+.html__attribute {
   color: darkmagenta;
   font-weight: bold;
 }
 
-.html-text {
+.html__text {
   color: green;
   font-weight: bold;
 }
@@ -87,6 +89,6 @@ h2 {
   font-weight: bold;
 }
 
-.page-footer {
+.page__footer {
   font-size: smaller;
 }
