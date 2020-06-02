@@ -92,3 +92,14 @@
 .page__footer {
   font-size: smaller;
 }
+
+.page__empty-block{
+  display: inline;
+   min-width: 100px;
+    height: 100px;
+    background: yellowgreen;
+    padding: 10px;
+    border:  solid red;
+    box-sizing: border-box;
+   
+}
