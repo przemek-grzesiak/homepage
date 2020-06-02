@@ -7,9 +7,35 @@
   width: 500px;
   height: 500px;
 }
-
+.about__box {
+  width: 100px;
+  height: 100px;
+  background: yellowgreen;
+  padding: 10px;
+  border: 10px solid red;
+  box-sizing: border-box;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  position: sticky;
+}
 h2 {
   color: #1460aa;
+
+}
+
+.header__navigation{
+  background: yellowgreen;
+  top: 20px;
+  position: sticky;
+}
+#main-index{
+  background-color: lightgray;
+  max-width: 1000px;
+  padding: 0px 10px;
+  border-radius: 2%;
+  box-sizing: border-box;
+  margin: auto;
 }
 
 #main-index h3 {
