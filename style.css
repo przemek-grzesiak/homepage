@@ -65,22 +65,22 @@
   background: #ebcd22;
   color: black;
 }
-.js-learning span {
+.js__learning span {
   background-color: lightgray;
 }
-.js-function {
+.js__function {
   color: yellow;
 }
 
-.js-var {
+.js__var {
   color: rgb(11, 185, 243);
 }
 
-.js-txt {
+.js__txt {
   color: orangered;
 }
 
-.js-number {
+.js__number {
   color: green;
 }
 
