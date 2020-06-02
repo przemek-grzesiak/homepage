@@ -3,22 +3,16 @@
   height: 102px;
 }
 
-#kulafoto {
-  width: 500px;
-  height: 500px;
+#image__kulafoto {
+  width: 200px;
+  height: 200px;
+  float: right;
 }
-.about__box {
-  width: 100px;
-  height: 100px;
-  background: yellowgreen;
-  padding: 10px;
-  border: 10px solid red;
-  box-sizing: border-box;
-  position: absolute;
-  top: 20px;
-  left: 50%;
-  position: sticky;
+
+#diary{
+  overflow: hidden;
 }
+
 h2 {
   color: #1460aa;
 
@@ -29,7 +23,7 @@ h2 {
   top: 20px;
   position: sticky;
 }
-#main-index{
+#main__index{
   background-color: lightgray;
   max-width: 1000px;
   padding: 0px 10px;
@@ -38,7 +32,7 @@ h2 {
   margin: auto;
 }
 
-#main-index h3 {
+.main__index--h3 {
   color: green;
 }
 
